@@ -6,7 +6,9 @@ O projeto está dividido em duas pastas, uma com o front-end e outra com o back-
 Para rodar o programa: 
 - Você deve estar dentro da pasta back-end => Unifor-Web/back-end
 - A API só inicia quando a senha do banco de dados for colocada na Connection String
-Connection String: mongodb+srv://cleysontab:<password>@uniforweb-api.heqjtce.mongodb.net/?retryWrites=true&w=majority
+  
+Connection String: mongodb+srv://cleysontab:$<password>@uniforweb-api.heqjtce.mongodb.net/?retryWrites=true&w=majority
+
 - Digite no terminal: node src/index.js, e o servidor da api estará rodando em http://localhost:3000
 - Você deve instalar a pasta node_modules
 - Express: npm i express
