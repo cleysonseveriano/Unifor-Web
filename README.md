@@ -32,4 +32,6 @@ Front End:
 - Na página de gestão é possível visualizar os usuários cadastrados no sistema, se e somente se a api estiver rodando, caso contrário, estará vazia.
 
 Pontos a melhorar:
-- Responsividade, e implementação do do Editar no front end
+- Responsividade, Estiização do projeto, e implementação do Editar no front end
+
+Enviamos a senha do banco para teste no arquivo do ava
