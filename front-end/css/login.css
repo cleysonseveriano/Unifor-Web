@@ -1,0 +1,9 @@
+body {
+    margin-top: 10rem;
+    display: flex;
+    justify-content: center;
+}
+
+.login-form {
+    width: 10rem;
+}
